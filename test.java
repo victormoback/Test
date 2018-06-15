@@ -7,10 +7,10 @@ public class Test {
 			}else {
          System.out.print("This is else statement");
       }//this is the super best comment!
-<<<<<<< HEAD
+
    } //Nu jävlar!
-=======
+
       //This one is pretty good too!
    }
->>>>>>> bb5defecf555fa59a7f7647699352b7b8767df9f
+
 }
