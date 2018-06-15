@@ -4,3 +4,8 @@ public class Test {
 
 		if(x<20) {
 			System.out.print("This is if statement");
+			}else {
+         System.out.print("This is else statement");
+      }
+   }
+}
